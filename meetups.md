@@ -154,3 +154,6 @@ http://www.meetup.com/KWAN-SmallTalks/
 https://github.com/r42
 
 
+# Game Dev Meets
+
+https://www.facebook.com/groups/592806634072201/
