@@ -21,10 +21,6 @@ https://codebits.eu
 
 https://www.ux-lx.com
 
-# BREAK
-
-https://www.facebook.com/breaklx
-
 # BET24
 
 http://www.bet24horas.pt

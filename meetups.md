@@ -1,155 +1,155 @@
- # require('lx')
+# require('lx')
 
 The Javascript and Node.js meetup group in Lisbon
 http://www.meetup.com/require-lx/
 
- # Docker Lisbon
+# Docker Lisbon
 
 The revolution will be containerized, and it will be shipped from Lisbon Docks
 http://www.meetup.com/DockerLisbon/
 
- # Meteor Lisbon
+# Meteor Lisbon
 
 http://www.meetup.com/Meteor-Lisbon/
 
- # Android LX
+# Android LX
 
 http://www.meetup.com/Android-LX/
 
- # What's your Stack, Lisbon
+# What's your Stack, Lisbon
 
 http://www.meetup.com/whatsyourstack-Lisbon/
 
 
- # Lisbon Bitcoin
+# Lisbon Bitcoin
 
 http://www.meetup.com/Lisbon-Bitcoin/
 
 
- # BREAK
+# BREAK
 
 Let's break the city
 http://www.meetup.com/BREAKlx/
 
 
- # Design Monday
+# Design Monday
 
 http://www.meetup.com/Design-Monday/
 
 
- # PHPlx
+# PHPlx
 
 A new meetup every month
 http://www.meetup.com/php-lx/
 
 
- # MongoDB Lisbon UserGroup
+# MongoDB Lisbon UserGroup
 
 http://www.meetup.com/Lisbon-MongoDB-User-Group/
 
 
- # Internet Freedom
+# Internet Freedom
 
 Think global, act local
 http://www.meetup.com/Internet-Freedom-Lisbon/
 
 
- # Fun(lx)
+# Fun(lx)
 
 http://www.meetup.com/Fun-Lx/
 
- # Python Users Lisbon
+# Python Users Lisbon
 
 http://www.meetup.com/Python-Users-Lisbon/
 
- # Merge Lisbon
+# Merge Lisbon
 
 http://www.meetup.com/Merge-Lisbon/
 
 
- # TechMeetupsLX
+# TechMeetupsLX
 
 http://www.meetup.com/TechMeetupsLX/
 
- # Lisbon Rust Lang
+# Lisbon Rust Lang
 
 http://www.meetup.com/Lisbon-Rust-Meetup/
 
- # IoTlx
+# IoTlx
 
 Internet of Things Lisbon
 http://www.meetup.com/IoT-Lisboa/
 
- # GeeksInLisbon
+# GeeksInLisbon
 
 http://www.meetup.com/GeeksIn-Lisbon/
 
- # iOS Dev Portugal
+# iOS Dev Portugal
 
 http://www.meetup.com/iOS-Dev-Portugal/
 
 
- # Lisbon Ux Cocktail hour
+# Lisbon Ux Cocktail hour
 
 http://www.meetup.com/Lisbon-Ux-Cocktail-Hour/
 
- # Wordpress Lisboa
+# Wordpress Lisboa
 
 http://www.meetup.com/WordPress-Lisboa/
 
 
- # xplat
+# xplat
 
 Using Microsoft Tools for Cross-Platform Development
 http://www.meetup.com/XPlat-Using-Microsoft-Tools-for-Cross-Platform-Development/
 
 
- # Google Developer Group Lisbon
+# Google Developer Group Lisbon
 
 https://plus.google.com/+GDG-Lisbon/posts
 
- # Lisbon |> Elixir
+# Lisbon |> Elixir
 
 http://www.meetup.com/lisbon-elixir/
 
- # Lisbon Cassandra Users
+# Lisbon Cassandra Users
 
 http://www.meetup.com/Lisbon-Cassandra-Users/
 
- # Ceph Lisbon
+# Ceph Lisbon
 
 http://www.meetup.com/Ceph-Lisbon/
 
- # Lx Geek Meetup
+# Lx Geek Meetup
 
 http://www.meetup.com/Lx-Geek-Meetup/
 
 
- # Lisbon GeoMeetup
+# Lisbon GeoMeetup
 
 http://www.meetup.com/Lisbon-GeoMeetup/
 
- # Lisbon Mulheres @TIC
+# Lisbon Mulheres @TIC
 
 http://www.meetup.com/Lisbon-Mulheres-TIC-Meetup/
 
 
- # Scala Portugal
+# Scala Portugal
 
 http://www.meetup.com/Scala-Portugal/
 
 
- # Lisbon Geek Girl Table
+# Lisbon Geek Girl Table
 
 http://www.meetup.com/Lisbon-Geek-Girl-Table/
 
 
- # KWAN SmallTalks
+# KWAN SmallTalks
 
 http://www.meetup.com/KWAN-SmallTalks/
 
 
- # R42
+# R42
 
 https://github.com/r42
 
